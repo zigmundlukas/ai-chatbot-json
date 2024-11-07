@@ -1,5 +1,5 @@
 # [COMPANY_NAME] AI Chatbot
-AI Chatbot json file. Provides responses related to company policies, career growth, employee benefits, and other workplace-related queries.
+AI Chatbot JSON file. Provides responses related to company policies, career growth, employee benefits, and other workplace-related queries.
 
 ## Features
 - Company policies and guidelines
@@ -9,8 +9,7 @@ AI Chatbot json file. Provides responses related to company policies, career gro
 
 For more details, please refer to the code or contact the dev team.
 
-
-
+```json
 {
   "bot_name": "COMPANY_NAME AI Chatbot",
   "model": "Llama",
